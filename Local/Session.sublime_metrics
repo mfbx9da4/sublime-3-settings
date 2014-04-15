@@ -1,0 +1,33 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"All Autocomplete",
+		"BEMHTML",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Emmet",
+		"Expand Selection to Whitespace",
+		"GitGutter",
+		"HTML5",
+		"HTMLAttributes",
+		"Jade",
+		"JavaScript Refactor",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Python Auto-Complete",
+		"Python Checker",
+		"RegReplace",
+		"Sass",
+		"Select Quoted",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"Todo"
+	],
+	"startup_sec": 0.611143,
+	"time": 1396902485
+}

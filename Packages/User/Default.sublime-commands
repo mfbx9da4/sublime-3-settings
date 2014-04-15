@@ -1,0 +1,5 @@
+{
+        "caption": "Reg Replace: Remove Trailing Spaces",
+        "command": "hi",
+        "args": {"replacements": ["hi"], "find_only": true}
+}

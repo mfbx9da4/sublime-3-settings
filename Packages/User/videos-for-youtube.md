@@ -1,0 +1,2 @@
+- all my flips, things i can do now but not forever!
+- tutorial on having fun with linux

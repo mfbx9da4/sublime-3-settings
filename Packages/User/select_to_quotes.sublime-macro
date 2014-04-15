@@ -1,0 +1,26 @@
+[
+	{
+		"args": null,
+		"command": "exit_insert_mode"
+	},
+	{
+		"args": null,
+		"command": "enter_visual_mode"
+	},
+	{
+		"args":
+		{
+			"action_args": null,
+			"action_command": null,
+			"motion_args":
+			{
+				"character": "'"
+			},
+			"motion_clip_to_line": false,
+			"motion_command": "vi_expand_to_quotes",
+			"motion_inclusive": false,
+			"motion_mode": 0
+		},
+		"command": "vi_eval"
+	}
+]

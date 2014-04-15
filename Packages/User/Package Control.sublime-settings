@@ -1,0 +1,38 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BEMHTML",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeComplete Plus (Autocompletion)",
+		"Ember.js Snippets",
+		"EmberScript",
+		"Emmet",
+		"Expand Selection to Whitespace",
+		"GitGutter",
+		"HTML5",
+		"HTMLAttributes",
+		"Jade",
+		"JavaScript Refactor",
+		"Jedi - Python autocompletion",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Python Auto-Complete",
+		"Python Checker",
+		"Python Improved",
+		"RegReplace",
+		"Sass",
+		"Select Quoted",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"sublimelint",
+		"SublimePythonIDE",
+		"Todo"
+	]
+}

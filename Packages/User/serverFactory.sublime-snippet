@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+serverFactory.${1:method}(${2:params}).success(function(res) {
+        console.log(res);
+        $3
+    }).error(function(err) {
+        console.log(err);
+    });
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>server</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

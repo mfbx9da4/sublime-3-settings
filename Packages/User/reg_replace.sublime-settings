@@ -1,0 +1,10 @@
+ {
+ 	"replacements": {
+ 		"hi": {
+ 			"find": "(.*)",
+ 			"replace": "hello",
+ 			"greedy": false,
+ 			"case": false
+ 		}
+ 	}
+ }
