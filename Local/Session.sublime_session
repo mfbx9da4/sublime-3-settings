@@ -1,85 +1,60 @@
 {
 	"folder_history":
 	[
-		"/home/da/code/misc/blitz_fullscreen_chrome_extension",
-		"/home/da/code/github-io/_drafts",
-		"/home/da/code/aentropico/erdos-planck",
-		"/home/da/code/misc/fbdata",
-		"/home/da/code/misc/aentropico-task",
-		"/home/da/code/misc/blitz_fullscreen_chrome_extension/html",
-		"/home/da/.config/sublime-text-3",
-		"/home/da/.config/sublime-text-3/Packages/User",
-		"/home/da/code/github-io/projects",
-		"/home/da/code/github-io",
-		"/home/da/code/frontend/blog/posts",
-		"/home/da/code/misc/simple-markdown-chat",
-		"/home/da/code/frontend/blog",
-		"/home/da/code/misc/checkers/damas",
-		"/home/da/code/docs/angular.js",
-		"/home/da/code/docs/angular.js/docs",
-		"/home/da/code/misc/aentropico-task/libs",
-		"/home/da/code/aentropico/sierpinski",
-		"/home/da/code/verbs-game",
-		"/home/da/code/misc/websocket",
-		"/home/da/code/backend/dadler.heroku",
-		"/home/da/code/misc/aentropic",
-		"/home/da/code/aentropico",
-		"/home/da/code/misc/checkers/damas/grunt",
-		"/home/da/code/frontend/money-guru-assignment/TestePratico/ferramenta",
-		"/home/da/code/misc/checkers",
-		"/home/da/code/misc/www.mathsisfun.com",
-		"/home/da/code/misc",
-		"/home/da/code",
-		"/home/da/code/misc/dropdot",
-		"/home/da/code/open-source-projects/player",
-		"/home/da/Dropbox/programming/python/rhythm_game",
-		"/home/da/code/misc/aentropic/misc",
-		"/home/da/code/misc/aentropic/downloads",
-		"/usr/share/gconf",
-		"/home/da/code/open-source-projects/Youtube-Playlist-Manager",
-		"/home/da/code/misc/aentropic/downloads/bost.ocks.org/mike",
-		"/home/da/code/backend/Macaque",
-		"/home/da/code/frontend",
-		"/home/da/code/backend/ember-and-go-example",
-		"/home/da/code/frontend/emberjs_tutorial",
-		"/home/da/code/cv",
-		"/home/da/code/frontend/money-guru-assignment",
-		"/home/da/code/frontend/emberjs-nodejs",
-		"/home/da/code/frontend/sa-site-framework",
-		"/home/da/code/superawesome/box-websites",
-		"/home/da/code/backend/placetobe_django",
-		"/home/da/code/placetobe_django",
-		"/home/da/code/dadler.heroku",
-		"/home/da/code/hellodjango",
-		"/home/da/code/spritesheet-gen",
-		"/home/da/code/proj",
-		"/home/da/code/emberjs-nodejs",
-		"/home/da/code/Youtube-Playlist-Manager",
-		"/home/da/code/emberjs_tutorial",
-		"/home/da/code/ember-crud",
-		"/HOME/david/Dropbox/programming/python/ann/pure_python",
-		"/home/da/.config/sublime-text-3/Packages/Jedi - Python autocompletion",
-		"/HOME/david/Dropbox/programming/python/facebook-template-ruby",
-		"/HOME/david/Dropbox/programming/superawesome/spritesheet-gen",
-		"/media/da/Windows-8/Users/David/Documents/GitHub/Youtube-Playlist-Manager",
-		"/home/da/code/starter-kit-1.2.0",
-		"/media/da/Windows-8/Users/David/Documents/GitHub/cv",
-		"/home/da/code/box-websites",
-		"/home/da/Documents/code/box-websites",
-		"/home/da/Documents/code/spritesheet-gen",
-		"/home/da/Documents/code",
-		"/home/da/Documents/code/spritesheetgen",
-		"/media/da/Windows-8/Users/David/Documents/GitHub/spritesheet-gen",
-		"/media/da/Windows-8/Users/David/Documents/GitHub",
-		"/media/da/Windows-8/Users/David/Documents/GitHub/spritesheet-gen/pres",
-		"/media/da/Windows-8/Users/David/Documents/code/pres"
+		"/Users/da/Dropbox/programming/python/rhythm_game",
+		"/Users/da/code/misc/hackerrank/code",
+		"/Users/da/code/freelance/profmarysmorgan",
+		"/Users/da/chaordic-computer/mooc/coursera-algorithms-2",
+		"/Users/da/code/misc/shit-refresh",
+		"/tmp/ButtonComponentMorph",
+		"/Users/da/code/misc/seam-carving-js",
+		"/Users/da/code/search/seam-carving-js",
+		"/Users/da/code/misc/slideout",
+		"/Users/da/code/misc/ng-server-time-example",
+		"/Users/da/code/misc/ng-server-date",
+		"/Users/da/code/misc/words-tree-and-anagram-solver",
+		"/Users/da/Dropbox/programming/python/misc/PE",
+		"/Users/da/chaordic-computer/mooc/coursera-algorithms-1/code",
+		"/Users/da/chaordic-computer/mooc/courser-algorithms-2",
+		"/Users/da/code/freelance/volleyball /public_html",
+		"/private/tmp",
+		"/Users/da/code/fube",
+		"/Users/da/code/misc/startbootstrap-clean-blog-jekyll",
+		"/Users/da/code/misc/blazing-inferno-2793.firebaseapp.com",
+		"/Users/da/code/freelance/volleyball ",
+		"/Users/da/code/misc/ng-ntp",
+		"/private/tmp/ntplib",
+		"/Users/da/code/freelance/volleyball /Scoreboard_Alex/node_modules/sequelize/lib",
+		"/Users/da/code/freelance/volleyball /Scoreboard_Alex",
+		"/Users/da/code/freelance",
+		"/Users/da/code/misc/freelance/volleyball /Scoreboard_Alex",
+		"/Users/da/chaordic-computer/mooc/compilers",
+		"/Users/da/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jekyll-3.0.1",
+		"/Users/da/code/mfbx9da4.github.io",
+		"/Users/da/code/misc/equilibrium-index",
+		"/Users/da/code/upwork-bot",
+		"/Users/da/code/misc/yacht",
+		"/Users/da/code/fb-agg",
+		"/Users/da/chaordic-computer/mooc/compilers/assignments/PA2",
+		"/Users/da/chaordic-computer/mooc/MEAN-stack",
+		"/Users/da/code/misc/test-thing",
+		"/Users/da/code/eco-sistemas",
+		"/Users/da/code/misc/wordpress-test",
+		"/Users/da/chaordic-computer/mooc",
+		"/Users/da/code/search",
+		"/Users/da/chaordic-computer/mooc/coursera-algorithms-1",
+		"/Users/da/chaordic-computer/Extracts",
+		"/Users/da/chaordic-computer/mooc/coursera-algorithms-1/code/as4-8puzzle",
+		"/Users/da/Library/Application Support/Sublime Text 3/Packages/User",
+		"/Users/da",
+		"/Users/da/algorithms1-coursera"
 	],
-	"last_version": 3059,
-	"last_window_id": 306,
+	"last_version": 3103,
+	"last_window_id": 106,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 751.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -87,868 +62,106 @@
 				"selected_items":
 				[
 					[
-						"pre",
-						"prevDate"
+						"select",
+						"selectors"
 					],
 					[
 						"for",
-						"for	keyword"
+						"for	js_for"
 					],
 					[
-						"getS",
-						"getS3DownloadPolicy"
-					],
-					[
-						"getDo",
-						"getDownloadS3Policy"
-					],
-					[
-						"pri",
-						"printingId"
-					],
-					[
-						"printg",
-						"printings"
-					],
-					[
-						"comm",
-						"commonHeaderCtrl"
-					],
-					[
-						"prit",
-						"printingId"
-					],
-					[
-						"resou",
-						"resourceId"
-					],
-					[
-						"bod",
-						"body	Tag"
-					],
-					[
-						"getE",
-						"getReport"
-					],
-					[
-						"rout",
-						"routeParams"
-					],
-					[
-						"printI",
-						"printingId"
-					],
-					[
-						"printin",
-						"printingResult"
-					],
-					[
-						"user",
-						"username"
-					],
-					[
-						"re",
-						"report"
-					],
-					[
-						"selec",
-						"selectedPrinting"
-					],
-					[
-						"getRp",
-						"getReport"
-					],
-					[
-						"printi",
-						"printingCtrl"
+						"p",
+						"python	(print_python.sublime)"
 					],
 					[
 						"print",
-						"printingResult"
+						"println"
 					],
 					[
-						"reporid",
-						"reportId"
+						"pa",
+						"partials"
 					],
 					[
-						"getRe",
-						"getReport"
+						"resiz",
+						"resizeArray"
 					],
 					[
-						"res",
-						"response"
-					],
-					[
-						"get",
-						"getPrinting"
-					],
-					[
-						"prti",
-						"printingId"
-					],
-					[
-						"ad",
-						"addAlert"
-					],
-					[
-						"com",
-						"complete"
-					],
-					[
-						"btn",
-						"btn-primary"
-					],
-					[
-						"active",
-						"active"
-					],
-					[
-						"file",
-						"fileString"
-					],
-					[
-						"resp",
-						"response"
-					],
-					[
-						"ng-re",
-						"ng-require"
-					],
-					[
-						"cor",
-						"correspondenceIsValid"
-					],
-					[
-						"corr",
-						"correspondenceIsValid"
-					],
-					[
-						"read",
-						"readFirstNLines"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"on",
-						"onFileRowSelect"
-					],
-					[
-						"moda",
-						"modalChooseDataFileCtrl"
-					],
-					[
-						"open",
-						"openChooseDataFileModal"
-					],
-					[
-						"modalCo",
-						"modalChooseDataFileCtrl"
-					],
-					[
-						"getU",
-						"getUserJobsPeriodically"
-					],
-					[
-						"getDa",
-						"getDataApp"
-					],
-					[
-						"row",
-						"row-fluid"
-					],
-					[
-						"who",
-						"whos_turn_to_play"
-					],
-					[
-						"inf",
-						"info_div"
-					],
-					[
-						"clieF",
-						"clientResourceField"
-					],
-					[
-						"fie",
-						"fieldId"
-					],
-					[
-						"dat",
-						"dataApp"
-					],
-					[
-						"f",
-						"f	js_function"
-					],
-					[
-						"post",
-						"postJob"
-					],
-					[
-						"client",
-						"clientFieldId"
-					],
-					[
-						"clie",
-						"clientResource"
-					],
-					[
-						"clien",
-						"cliententResourceId"
-					],
-					[
-						"field",
-						"fieldCorrespondence"
-					],
-					[
-						"fieldC",
-						"fieldCorrespondences"
-					],
-					[
-						"fiel",
-						"fieldCorrespondence"
-					],
-					[
-						"select",
-						"selectedCorrespondence"
-					],
-					[
-						"selc",
-						"selectedCorrespondence"
-					],
-					[
-						"reso",
-						"resources"
-					],
-					[
-						"data",
-						"dataPackageResource"
-					],
-					[
-						"fieldCore",
-						"fieldCorrespondence"
-					],
-					[
-						"selecte",
-						"selectedDataPackageResource"
-					],
-					[
-						"init",
-						"initCorrespondence"
-					],
-					[
-						"clientFie",
-						"clientFieldId"
-					],
-					[
-						"fieldCO",
-						"fieldCorrespondence"
-					],
-					[
-						"core",
-						"correspondence"
-					],
-					[
-						"clienF",
-						"clientFieldId"
-					],
-					[
-						"sele",
-						"selectedDataPackageResource"
-					],
-					[
-						"valida",
-						"validateDataCtrl"
-					],
-					[
-						"spec",
-						"specificErrors"
-					],
-					[
-						"colum",
-						"columnId"
-					],
-					[
-						"in",
-						"in	js_for_in"
-					],
-					[
-						"resour",
-						"resource"
-					],
-					[
-						"progre",
-						"progressToValidate"
-					],
-					[
-						"progr",
-						"progressToValidate"
-					],
-					[
-						"fi",
-						"fields"
-					],
-					[
-						"su",
-						"success"
-					],
-					[
-						"aler",
-						"alertService"
-					],
-					[
-						"onRow",
-						"onFileRowSelect($index"
-					],
-					[
-						"time",
-						"timeout"
-					],
-					[
-						"tim",
-						"timeout"
-					],
-					[
-						"getData",
-						"getDataPackage"
-					],
-					[
-						"dataP",
-						"dataPackageCtrl"
-					],
-					[
-						"dataPa",
-						"dataPackage"
-					],
-					[
-						"data_fil",
-						"data_files_table"
-					],
-					[
-						"fff",
-						"ffffff"
-					],
-					[
-						"run",
-						"runApp"
-					],
-					[
-						"modalIn",
-						"modalInfoDataAppCtrl"
-					],
-					[
-						"sub",
-						"submitFileToS3"
-					],
-					[
-						"proce",
-						"processData"
-					],
-					[
-						"load",
-						"loadHandler"
-					],
-					[
-						"ret",
-						"returnValue"
-					],
-					[
-						"pos",
-						"postJob"
-					],
-					[
-						"addRe",
-						"addResourceToUser"
-					],
-					[
-						"cons",
-						"cons	consoleLog"
-					],
-					[
-						"addR",
-						"addResource"
-					],
-					[
-						"url",
-						"urlBase"
-					],
-					[
-						"getUserD",
-						"getUserDataFiles"
-					],
-					[
-						"per",
-						"percentComplete"
-					],
-					[
-						"http",
-						"http"
-					],
-					[
-						"htt",
-						"http"
-					],
-					[
-						"onF",
-						"onFileSelect"
-					],
-					[
-						"content",
-						"contentType"
-					],
-					[
-						"pro",
-						"properties"
-					],
-					[
-						"specif",
-						"specific"
-					],
-					[
-						"uploa",
-						"upload"
-					],
-					[
-						"incl",
-						"includes"
-					],
-					[
-						"admin",
-						"admin_console"
-					],
-					[
-						"ace",
-						"accessible"
-					],
-					[
-						"server",
-						"serverFactory"
-					],
-					[
-						"acc",
-						"accesibleDataApps"
-					],
-					[
-						"conver",
-						"convertArrayToTrueKeys"
-					],
-					[
-						"acces",
-						"accessible"
-					],
-					[
-						"out",
-						"output"
-					],
-					[
-						"chec",
-						"checkbox"
-					],
-					[
-						"getAl",
-						"getAllDataApps"
-					],
-					[
-						"angu",
-						"angular_templates"
-					],
-					[
-						"an",
-						"angular_templates"
-					],
-					[
-						"serv",
-						"serverFactory"
-					],
-					[
-						"add",
-						"addResource"
-					],
-					[
-						"addData",
-						"addDataPackage"
-					],
-					[
-						"tabl",
-						"tableId"
-					],
-					[
-						"the",
-						"thePatch"
-					],
-					[
-						"dataA",
-						"dataApp"
-					],
-					[
-						"checker",
-						"checker_objects"
-					],
-					[
-						"modal",
-						"modalEditDataAppCtrl"
-					],
-					[
-						"busi",
-						"busiVertical"
-					],
-					[
-						"bus",
-						"busiVertical"
+						"en",
+						"enqueueBoard"
 					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 75.0,
+				"height": 392.0,
+				"last_filter": "ke",
 				"selected_items":
 				[
 					[
-						"copy nam",
-						"File: Copy Name"
+						"ke",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"enabl",
-						"Package Control: Enable Package"
+						"setting",
+						"Preferences: Settings - User"
 					],
 					[
-						"cop",
-						"File: Copy Path"
+						"dup",
+						"File: Duplicate"
 					],
 					[
-						"copna",
-						"File: Copy Name"
+						"keyb",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"del",
-						"File: Delete"
+						"du",
+						"File: Duplicate"
 					],
 					[
-						"highvis",
-						"BracketHighlighter: Toggle High Visibility Mode"
+						"d",
+						"File: Duplicate"
 					],
 					[
-						"highvi",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"copy na",
-						"File: Copy Name"
-					],
-					[
-						"copn",
-						"File: Copy Name"
-					],
-					[
-						"copy",
-						"File: Copy Name"
+						"kind",
+						"Preferences: Key Bindings - Default"
 					],
 					[
 						"rena",
 						"File: Rename"
 					],
 					[
-						"hig v",
-						"BracketHighlighter: Toggle High Visibility Mode"
+						"ssp",
+						"Set Syntax: Python"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
+						"bind",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"disabl",
-						"Package Control: Disable Package"
+						"bindi",
+						"Preferences: Key Bindings - User"
 					],
 					[
 						"user",
 						"Preferences: Key Bindings - User"
 					],
 					[
-						"bind",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"high vis",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"highl vis",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"tabs",
-						"View: Toggle Tabs"
-					],
-					[
-						"vi",
-						"View: Toggle Tabs"
-					],
-					[
-						"bidn",
-						"Preferences: Key Bindings - Default"
-					],
-					[
-						"settin",
-						"Preferences: Settings - User"
-					],
-					[
-						"mini",
-						"View: Toggle Minimap"
-					],
-					[
-						"view ",
-						"View: Toggle Minimap"
-					],
-					[
-						"view st",
-						"View: Toggle Status Bar"
-					],
-					[
-						"git com",
-						"Git: Commit"
-					],
-					[
-						"status",
-						"Git: Status"
-					],
-					[
-						"status ",
-						"Git: Quick Status"
-					],
-					[
-						"view sta",
-						"View: Toggle Status Bar"
-					],
-					[
-						"view",
-						"View: Toggle Tabs"
-					],
-					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"high",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"high vi",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"renam",
-						"File: Rename"
-					],
-					[
-						"reg",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"whi",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"expa",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"rege",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"inpu",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"seq",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"reg rep",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"reg reg",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"hig vi",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"js",
-						"Snippet: Object Value JS"
-					],
-					[
-						"move",
-						"File: Move"
-					],
-					[
-						"COP",
-						"File: Copy Path"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"slo",
-						"Sort Lines"
-					],
-					[
-						"expan",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"expand",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"INDE",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"file cp pa ",
-						"File: Copy Path"
-					],
-					[
-						"vinta",
-						"Markdown Preview: Open Markdown Cheat sheet"
-					],
-					[
-						"mar ed se",
-						"Preferences: MarkdownEditing Settings – Default"
-					],
-					[
-						"markdow set",
-						"Preferences: MarkdownEditing Settings – User"
-					],
-					[
-						"editing",
-						"Preferences: MarkdownEditing Settings – Default"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"bin",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"snip",
-						"Snippet: for (…) {…}"
-					],
-					[
-						"DISABL",
-						"Package Control: Disable Package"
-					],
-					[
-						"markd",
-						"Set Syntax: MultiMarkdown"
-					],
-					[
-						"makr",
-						"Set Syntax: Markdown"
-					],
-					[
-						"mard",
-						"Markdown Preview: Python Markdown: Preview in Browser"
-					],
-					[
-						"new",
-						"Markdown Preview: Open Markdown Cheat sheet"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"prefer",
-						"Preferences: Browse Packages"
-					],
-					[
-						"diabl",
-						"Package Control: Disable Package"
-					],
-					[
-						"pack",
-						"Package Control: Add Channel"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"defa",
-						"Preferences: Settings - Default"
-					],
-					[
-						"BIND",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"bindin",
+						"key",
 						"Preferences: Key Bindings - Default"
 					]
 				],
-				"width": 647.0
+				"width": 521.0
 			},
 			"console":
 			{
-				"height": 337.0,
+				"height": 139.0,
 				"history":
 				[
-					"view.run_command('prefixr')",
-					"view.run_command('example')",
-					"view.run('hello world')",
-					"view.run_command('example')",
-					"view.run('hello world')",
-					"view.run_command('rot13')",
-					"view.runCommand('rot13')",
-					"view.run_command('Rot13')",
-					"sublime.__file__",
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
-					" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -962,315 +175,84 @@
 			},
 			"file_history":
 			[
-				"/home/da/code/misc/fbdata/html/most-talked.html",
-				"/home/da/code/misc/fbdata/html/json/chat_data.json",
-				"/home/da/code/misc/fbdata/html/messages.htm",
-				"/home/da/code/misc/fbdata/html/contact_info.htm",
-				"/home/da/code/misc/fbdata/html/moment.min.js",
-				"/home/da/code/misc/fbdata/html/horizon.js",
-				"/home/da/code/misc/fbdata/html/draw.js",
-				"/home/da/code/misc/fbdata/html/d3.js",
-				"/home/da/code/misc/fbdata/index.htm",
-				"/home/da/code/misc/fbdata/html/message-stats.htm",
-				"/home/da/code/misc/fbdata/html/messages.js",
-				"/home/da/code/misc/fbdata/html/messages.htm~",
-				"/home/da/code/misc/fbdata/html/friends.htm",
-				"/home/da/code/misc/fbdata/html/events.htm",
-				"/home/da/code/misc/fbdata/html/d3.v3.min.js",
-				"/home/da/code/misc/fbdata/html/cubism.min.js",
-				"/home/da/code/misc/fbdata/html/cubism-demo.html",
-				"/home/da/code/misc/fbdata/html/angular.min.js",
-				"/home/da/code/misc/fbdata/html/ads.htm",
-				"/home/da/code/aentropico/erdos-planck/views/store/reports.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalInputCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/examples/population-plain-objects.js",
-				"/home/da/code/aentropico/erdos-planck/req_schemas/resources/jobs/postJob.json",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/buffer-crc32/package.json",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-firefox-3.6.http",
-				"/home/da/code/aentropico/erdos-planck/utils/s3Utilities.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/stylus/node_modules/sax/test/issue-23.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/stylus/node_modules/sax/test/issue-47.js",
-				"/home/da/code/aentropico/erdos-planck/README.md",
-				"/home/da/code/aentropico/erdos-planck/routes/common/render.js",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/edit_data_app_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/jobCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/rekuire/test/helpers/package-creator.js",
-				"/home/da/code/aentropico/erdos-planck/persistence/daos/composedDaos/clientResourceProvider.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/dataAppCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/files/dataAppResource/dataApp_test_0.json",
-				"/home/da/code/aentropico/erdos-planck/node_modules/form-data/node_modules/combined-stream/test/integration/test-delayed-streams-and-buffers-and-strings.js",
-				"/home/da/code/aentropico/erdos-planck/views/store/data_app_result.jade",
-				"/home/da/code/aentropico/erdos-planck/routes/dataAppRoute.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/lib/errors/validation.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/validateDataCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/package.json",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/common/omnipresentAgent.js",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/rerender_report_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/schemas/printing.js",
-				"/home/da/code/aentropico/erdos-planck/req_schemas/resources/resources|dataTables/postResource.json",
-				"/home/da/code/aentropico/erdos-planck/views/store/data_app.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/daos/reportProvider.js",
-				"/home/da/code/aentropico/erdos-planck/views/store/owner_one.jade",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/composedTest/clientDataAppTest.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/dataAppAgreggation/dataAppTest.js",
-				"/home/da/code/aentropico/erdos-planck/views/client/client_data.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/daos/dataAppProvider.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/ae-github/node_modules/xmlhttprequest/tests/testdata.txt",
-				"/home/da/code/aentropico/erdos-planck/node_modules/atob/test.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/form-data/node_modules/combined-stream/test/integration/test-empty-string.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/ae-github/node_modules/xmlhttprequest/tests/test-events.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-pause.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/reportTest.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/jade/lib/filters.js",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/data_files_table.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/lib/angular/angular-file-upload.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/oop/oop-min.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/commonjs-utils/lib/observe.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/createlink-base/createlink-base.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/createlink-base/createlink-base-coverage.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/cssgrids-responsive/cssgrids-responsive.css",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/clickable-rail/clickable-rail.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/files/clientResource/clientExample2.json",
-				"/home/da/code/aentropico/erdos-planck/views/includes/client_menu.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/schemas/client.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/superagent/docs/head.html",
-				"/home/da/code/aentropico/erdos-planck/node_modules/rio/node_modules/.bin/hexy",
-				"/home/da/code/aentropico/erdos-planck/node_modules/expect.js/History.md",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/lib/router/route.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/rio/node_modules/binary/test/eof.js",
-				"/home/da/.zshrc",
-				"/home/da/.cache/.fr-AdtVlz/MarkdownEditor-Dark.tmTheme",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/node_modules/request/node_modules/form-data/node-form-data.sublime-project",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/substitute/substitute.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/factories/serverFactory.js",
-				"/home/da/.config/sublime-text-3/Installed",
-				"/home/da/.cache/.fr-jJwlDd/MarkdownEditor-Dark.tmTheme",
-				"/home/da/code/aentropico/erdos-planck/Packages",
-				"/home/da/.config/sublime-text-3/Packages/User/js_for.sublime-snippet",
-				"/home/da/.config/sublime-text-3/Packages/User/js_log_selected.sublime-macro",
-				"/home/da/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Package Control.last-run",
-				"/home/da/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Markdown Extended.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Default.sublime-commands",
-				"/home/da/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/dataFileCtrl.js",
-				"/home/da/code/misc/aentropico-task/misc/downloads/mean/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
-				"/home/da/code/misc/aentropico-task/node_modules/express/LICENSE",
-				"/home/da/code/misc/fbdata/html/json/threadLetterCount.json",
-				"/home/da/code/misc/fbdata/html/jquery-2.0.3.min.js",
-				"/home/da/code/aentropico/erdos-planck/routes/jobRoute.js",
-				"/home/da/code/aentropico/erdos-planck/views/includes/common_header.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalReRenderReportCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalConfirmationCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/lib/_stream_readable.js",
-				"/home/da/code/aentropico/erdos-planck/views/store/client_dashboard.jade",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/clientTest.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/.bin/express",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/event-resize/event-resize.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/range-parser/package.json",
-				"/tmp/\"printingResults\" : [",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/rerender_report_modal",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/report_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/node_modules/mongodb/lib/mongodb/commands/get_more_command.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/mozilla-ast.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/Makefile",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/confirmation_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalEditUserCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/tests/generators/populatedb.mongo.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/mkdirp/test/perm_sync.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/commonHeaderCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/async/component.json",
-				"/home/da/code/aentropico/erdos-planck/views/index.jade",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/io-nodejs/io-nodejs-debug.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/io-nodejs/io-nodejs.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/tests/input/charts/TopAxisLayout.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/dataTable-resources/inputFileTest.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/superagent/node_modules/formidable/test/standalone/test-issue-46.js"
+				"/Users/da/code/freelance/profmarysmorgan/home.htm",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/do-with-variable-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/BeautifyRuby.sublime-settings",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/puts-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/puts-with-template-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/do-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/method.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/puts.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/print_python.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/da/.zshrc",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/println_java.sublime-snippet",
+				"/Users/da/algorithms1-coursera/code/as4-8puzzle/Board.java",
+				"/Users/da/algorithms1-coursera/readme.md"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
-				"height": 123.0,
+				"height": 93.0,
 				"where_history":
 				[
-					"",
-					"public/",
-					"",
-					"views/",
-					"",
-					"routes/",
-					"routes",
-					"",
-					"public/",
-					"public",
-					"",
-					"./app/,",
-					"./app/,./misc",
-					"./app/",
-					"app/",
-					"app",
-					"",
-					"/home/da/code/misc/aentropic/server.js,/home/da/code/misc/aentropic/server/",
-					"/home/da/code/misc/aentropic/server.js;/home/da/code/misc/aentropic/server/",
-					"home/da/code/misc/aentropic/server.js;home/da/code/misc/aentropic/server/",
-					"home/da/code/misc/aentropic/server.js; home/da/code/misc/aentropic/server/",
-					"home/da/code/misc/aentropic/server.js",
-					"./server.js;.server/",
-					"./server.js;.server",
-					"./server.js;./server",
-					"./server.js;./server/",
-					"server.js;server/",
-					"",
-					"/home/da/code/frontend/blog/node_modules/monk",
-					"/home/da/code/frontend/blog",
-					"./node_modules",
-					"",
-					".",
-					"",
-					"hellodjango/",
 					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"seq",
-					"seq[k]",
-					"]",
-					"response",
-					"has",
-					"printing",
-					"dataA",
-					"postJon",
-					"modal",
-					"cleanDataBase",
-					"printing",
-					"reportId",
-					">Markdown",
-					"link",
-					"d3.json",
-					"_data",
-					"data",
-					"cons",
-					"job",
-					"openReRenderReportModal",
-					"printing",
-					" serverFactory,",
-					"title ",
-					"report",
-					"route",
-					"reports",
-					"print ",
-					"updateReportState",
-					"app_",
-					"printing",
-					"d",
-					"ans",
-					"printingId",
-					"getS3",
-					"planck/response",
-					"req_schemas/components/planck/response",
-					"intro:",
-					"intro: ",
-					"intro",
-					"getClientReports",
-					"myXhr.upload.onprogress",
-					"progress",
-					"Height",
-					"button.",
-					"icon",
-					"width",
-					"button",
-					"animate",
-					"report",
-					"ng-animate",
-					"ngAnimate",
-					".aler",
-					"client_menu",
-					"username",
-					"username/",
-					"sierpinski/",
-					"e",
-					"client",
-					"background-color: #ff",
-					"background-color: #",
-					"background-color",
-					".container.",
-					".button.green-button.text-shadow",
-					"ng-click",
-					"correspondenceIsValid",
-					"ng-",
-					"ng-req",
-					"ng-re",
-					"-table",
-					"table-",
-					"table",
-					"fieldsToValidate += 1;",
-					"have",
-					"You ha",
-					"onSucccessS3Upload",
-					"onSuccessS3Upload",
-					"cons",
-					"dataApp_test_0.json",
-					"(urllib2.",
-					"(urllib2.HTTPError) as (e)",
-					"(",
-					"tv",
-					"table",
-					"dataApp",
-					"openEditDataAppModal",
-					"modal",
-					"printingR",
-					"job",
-					"dataApp",
-					"DataApp",
-					"sharedByAppView",
-					"vices/sharedByAppView',\n                    'services/alertService',\n                    'services/sharedByInputFile',\n                    'directives/files_table'\n                ]\n            },\n\n            '/sierpinski/:username/client_jobs': {\n                templateUrl: '/views/client/client_jobs',\n                dependencies: [\n                    'controllers/loginCtrl',\n                    'controllers/commonHeaderCtrl', \n                    'controllers/navCtrl',\n                    'factories/userFactory',\n                    'factories/serverFactory',\n                    'services/sharedByAppView',\n                    'services/alertService'\n                ]\n            },\n\n            '/sierpinski/dataApps/:dataApp': {\n                templateUrl: '/views/store/data_app',\n                dependencies: [\n                    'controllers/loginCtrl',\n                    'controllers/navCtrl',\n                    'controllers/commonHeaderCtrl', \n                    'controllers/dataFileCtrl',\n                    'controllers/validateDataCtrl',\n                    'factories/userFactory',\n                    'factories/serverFactory',\n                    'services/alertService',\n                    'controllers/dataAppCtrl',\n                    'controllers/dataPackageCtrl',\n                    'services/sharedByAppView',\n                    'services/sharedByInputFile',\n                    'directives/files_table'\n                ]\n            },\n\n            '/sierpinski/dataApps/:dataApp/result': {\n                templateUrl: '/views/store/data_app_result',\n                dependencies: [\n                    'controllers/loginCtrl',\n                    'controllers/commonHeaderCtrl', \n                    'controllers/navCtrl',\n                    'controllers/dataAppCtrlResult',\n                    'controllers/reportCtrl',\n                    'controllers/modalInputCtrl',\n                    'factories/serverFactory',\n                    'factories/userFactory',\n                    'services/sharedByAppView",
-					"sharedByAppView",
-					"job",
-					"0.3s",
-					"transition:",
-					"-duration",
-					"mfbx9da4",
-					"reports",
-					"loadShinyUrl",
-					"result",
-					"Save Report",
-					"Save report",
-					"save report",
-					"re",
-					"resu",
-					"form",
-					"request",
-					"report",
-					"reportInfo",
-					"\"reportInfo\"",
-					"type",
-					"additionalProperties",
-					"bar",
-					"side",
-					"jobs",
-					"job",
-					"setCorrespondanceField",
-					"clientResource",
-					"clientFieldId",
-					"resource.fields",
-					"removeResourceData",
-					"cons",
-					"selectedCorrespondence",
-					"correspondence",
-					"getDataApp",
-					"dataPackage",
-					"command"
+					"dynamicmodel",
+					"wixad",
+					"Udacity",
+					"\\item",
+					"replace",
+					"line",
+					"line_",
+					"ctrl",
+					"begin",
+					"+up",
+					"super+up",
+					"alt",
+					"ctrl",
+					"rails",
+					"move",
+					"saveBoard",
+					"+delete\"",
+					"delete\"",
+					"delete",
+					"ctrl+dele",
+					"fn+ctrl",
+					"println",
+					"prinln",
+					"NeighborIterator",
+					"code/as",
+					"as-",
+					"as",
+					"public Iterable",
+					"return partials",
+					"partials",
+					"partials = ",
+					"enqueueBoard",
+					"segments",
+					"LineSegment",
+					"length",
+					"resize",
+					"enqueueBoard",
+					"delete",
+					"line",
+					"current",
+					"Queue<Board>",
+					"[username:~/algs4/] "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1278,628 +260,89 @@
 				"regex": false,
 				"replace_history":
 				[
-					"",
-					"store/data_scientist_",
-					"DataPackage",
-					"dataPackage",
-					"selected_pos",
-					"available_positions",
-					"board.animated_squares",
-					"board.checker_objects[",
-					"translateCoordsToPos",
-					"position_is_empty",
-					"cell_is_empty",
-					"teams",
-					"peices",
-					"PEICES",
-					"select_square",
-					"select_checker",
-					"selected_checker.team",
-					"CTYPES",
-					"ctypes",
-					"types",
-					"ccfg",
-					" cfg[",
-					"must_jump",
-					"second_jump",
-					"switch_player",
-					"board.animated",
-					"find_legal_moves",
-					"active",
-					"show_legal",
-					"0",
-					"buildLineChartFromReportId",
-					"buildBarChartFromReportId",
-					"3000\n",
-					"buildChartFromReportId",
-					"../../../libs/angular-route.min.js",
-					"home/da/david/HOME/david/Music/youtube-dl/Yerba_Buena_-_Electric_Boogaloo-iXYZjLzb50I.mp3\n",
-					"./How to get started (Part 1 of the AngularJS - from beginner to expert in 7 steps series)   ng-newsletter_files/angular.min.js",
-					")",
-					"report",
-					"job",
-					"report",
-					"algorithm",
-					"0.2s",
-					"",
-					"</",
-					"David Adler",
-					"row",
-					"col-md-$1",
-					"col-md-\\d",
-					"col-md-",
-					"Source Sans Pro, Open Sans, Helvetica, Arial, sans-serif;",
-					"8000",
-					"SourceCodePro",
-					"AlegreyaSans",
-					"Electrolize",
-					"PoiretOne",
-					"PTMono",
-					"SourceCodePro",
-					"GildaDisplay",
-					"WaitingfortheSunrise",
-					"OpenSans",
-					"writeMain",
-					"el",
-					"hellodja",
-					"spritesheetgen",
-					"el",
-					"dim",
-					"star_stable",
-					"#",
-					"sprite0",
-					"centered",
-					"new",
-					"\n	"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 42.0
+				"height": 35.0
 			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 142.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.markdown":
-			{
-				"height": 148.0
-			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"messa.j",
-						"html/messages.js"
+						"home",
+						"home.htm"
 					],
 					[
-						"cha",
-						"html/json/chat_data.json"
+						"hom",
+						"home.htm"
 					],
 					[
-						".p",
-						"html/sortByKey.py"
+						"conslog",
+						"consoleLog.sublime-snippet"
 					],
 					[
-						"main",
-						"html/chatStats/main.js"
+						"doru",
+						"do-with-variable-ruby.sublime-snippet"
 					],
 					[
-						"most",
-						"html/most-talked.html"
+						"beaut",
+						"BeautifyRuby.sublime-settings"
 					],
 					[
-						".js",
-						"html/chatStats/main.js"
+						"puts",
+						"puts-ruby.sublime-snippet"
 					],
 					[
-						"repo",
-						"views/store/report.jade"
+						"snip",
+						"method.sublime-snippet"
 					],
 					[
-						"",
-						"public/js/controllers/reportCtrl.js"
+						"linu",
+						"Default (Linux).sublime-keymap"
 					],
 					[
-						"serv",
-						"public/js/factories/serverFactory.js"
+						"linux",
+						"Default (Linux).sublime-keymap"
 					],
 					[
-						"reportct",
-						"public/js/controllers/reportCtrl.js"
+						"prija",
+						"println_java.sublime-snippet"
 					],
 					[
-						"rep",
-						"views/store/report.jade"
+						"sol",
+						"code/as4-8puzzle/Solver.java"
 					],
 					[
-						"ap",
-						"app.js"
+						"boar",
+						"code/as4-8puzzle/Board.java"
 					],
 					[
-						"report",
-						"views/store/report.jade"
-					],
-					[
-						"reportro",
-						"routes/reportRoute.js"
-					],
-					[
-						"app",
-						"app.js"
-					],
-					[
-						"repc",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"rec",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"repoct",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"repoctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reprtctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"approut",
-						"public/js/appRoutes.js"
-					],
-					[
-						"reren",
-						"views/angular_templates/rerender_report_modal.jade"
-					],
-					[
-						"jobrou",
-						"routes/jobRoute.js"
-					],
-					[
-						"serve",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"datafile",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"postjob",
-						"req_schemas/resources/jobs/postJob.json"
-					],
-					[
-						"validada",
-						"public/js/controllers/validateDataCtrl.js"
-					],
-					[
-						"rere",
-						"views/angular_templates/rerender_report_modal.jade"
-					],
-					[
-						"print",
-						"public/js/controllers/printingCtrl.js"
-					],
-					[
-						"apprt",
-						"public/js/appRoutes.js"
-					],
-					[
-						"printc",
-						"public/js/controllers/printingCtrl.js"
-					],
-					[
-						"rerender",
-						"views/angular_templates/rerender_report_modal.jade"
-					],
-					[
-						"rerend",
-						"public/js/controllers/modalReRenderReportCtrl.js"
-					],
-					[
-						"printingctr",
-						"public/js/controllers/printingCtrl.js"
-					],
-					[
-						"data_ap",
-						"views/store/data_app.jade"
-					],
-					[
-						"reportctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reportc",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reporttes",
-						"tests/black_box_test/reportTest.js"
-					],
-					[
-						"clientdat",
-						"tests/black_box_test/composedTest/clientDataAppTest.js"
-					],
-					[
-						"dataapp",
-						"tests/black_box_test/dataAppAgreggation/dataAppTest.js"
-					],
-					[
-						"testdataap",
-						"tests/black_box_test/composedTest/clientDataAppTest.js"
-					],
-					[
-						"reportte",
-						"tests/black_box_test/reportTest.js"
-					],
-					[
-						"omnig",
-						"tests/black_box_test/common/omnipresentAgent.js"
-					],
-					[
-						"clie",
-						"views/includes/client_menu.jade"
-					],
-					[
-						"setting",
-						"views/common/settings.jade"
-					],
-					[
-						"clientdash",
-						"views/store/client_dashboard.jade"
-					],
-					[
-						"appro",
-						"public/js/appRoutes.js"
-					],
-					[
-						"header",
-						"views/includes/common_header.jade"
-					],
-					[
-						"repct",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"servf",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"reopctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reportja",
-						"views/store/report.jade"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"js",
-						"js_for.sublime-snippet"
-					],
-					[
-						"datfil",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"line",
-						"app/lineChart.js"
-					],
-					[
-						"d",
-						"html/d3.js"
-					],
-					[
-						"mesjs",
-						"html/messages.js"
-					],
-					[
-						"messages.",
-						"html/messages.htm"
-					],
-					[
-						"j",
-						"html/jquery-2.0.3.min.js"
-					],
-					[
-						"mess",
-						"html/messages.htm"
-					],
-					[
-						"jobc",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						"cliejo",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"cliejob",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"appr",
-						"public/js/appRoutes.js"
-					],
-					[
-						"clietjob",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"job",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						"clie_job",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"repomod",
-						"views/angular_templates/report_modal.jade"
-					],
-					[
-						"reprt",
-						"routes/reportRoute.js"
-					],
-					[
-						"modalja",
-						"views/angular_templates/confirmation_modal.jade"
-					],
-					[
-						"modal",
-						"public/js/controllers/modalConfirmationCtrl.js"
-					],
-					[
-						"valid",
-						"public/js/controllers/validateDataCtrl.js"
-					],
-					[
-						"da",
-						"views/store/data_app.jade"
-					],
-					[
-						"data_app",
-						"views/store/data_app.jade"
-					],
-					[
-						"rpotes",
-						"tests/black_box_test/reportTest.js"
-					],
-					[
-						"commo",
-						"views/includes/common_header.jade"
-					],
-					[
-						"comonhed",
-						"views/includes/common_header.jade"
-					],
-					[
-						"index",
-						"views/index.jade"
-					],
-					[
-						"ser",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"reportr",
-						"routes/reportRoute.js"
-					],
-					[
-						"reppr",
-						"persistence/daos/reportProvider.js"
-					],
-					[
-						"user",
-						"routes/userRoute.js"
-					],
-					[
-						"boot",
-						"public/stylesheets/bootstrap.css"
-					],
-					[
-						"dataa",
-						"public/js/controllers/dataAppCtrl.js"
-					],
-					[
-						"jobct",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						".jade",
-						"views/store/reports.jade"
-					],
-					[
-						"id",
-						"ideas-for-programs.md"
-					],
-					[
-						"repor",
-						"views/store/reports.jade"
-					],
-					[
-						"dataaja",
-						"views/store/data_app.jade"
-					],
-					[
-						"datajso",
-						"tests/black_box_test/files/dataAppResource/dataAppExample1_Request.json"
-					],
-					[
-						"req_schemas/components/planck/response",
-						"req_schemas/components/planck/planckResponse.json"
-					],
-					[
-						"post",
-						"req_schemas/resources/jobs/postJob.json"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"jobctr",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						"dataapc",
-						"public/js/controllers/dataAppCtrl.js"
-					],
-					[
-						"reportp",
-						"persistence/daos/reportProvider.js"
-					],
-					[
-						"reprctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"clien_j",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"uploa",
-						"public/js/directives/uploader.js"
-					],
-					[
-						"datafil",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"appmod",
-						"public/js/appModule.js"
-					],
-					[
-						"boo",
-						"public/stylesheets/bootstrap.css"
-					],
-					[
-						"alert",
-						"public/template/alert/alert.html"
-					],
-					[
-						"common_",
-						"views/includes/common_header.jade"
-					],
-					[
-						"navc",
-						"public/js/controllers/navCtrl.js"
-					],
-					[
-						"directiv",
-						"public/js/directives/fileDownload.js"
-					],
-					[
-						"dafil",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"data_",
-						"views/store/data_app.jade"
-					],
-					[
-						"servfa",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"cliend",
-						"views/client/client_data.jade"
-					],
-					[
-						"clien",
-						"views/includes/client_menu.jade"
-					],
-					[
-						"clieme",
-						"views/includes/client_menu.jade"
-					],
-					[
-						"dap0",
-						"tests/black_box_test/files/dataPackageResource/dataPackage_test_0.json"
-					],
-					[
-						"datfi",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"dataapjson",
-						"tests/black_box_test/files/dataAppResource/dataApp_test_0.json"
-					],
-					[
-						"dataappri",
-						"persistence/daos/dataAppProvider.js"
-					],
-					[
-						"admi",
-						"views/admin_console/admin_console.jade"
-					],
-					[
-						"commoerr",
-						"views/common/error.jade"
-					],
-					[
-						"pos",
-						"req_schemas/resources/jobs/postJob.json"
-					],
-					[
-						"dataapja",
-						"views/store/data_app.jade"
-					],
-					[
-						"admin",
-						"views/admin_console/admin_console.jade"
-					],
-					[
-						"daact",
-						"public/js/controllers/dataAppCtrl.js"
-					],
-					[
-						"dpc",
-						"public/js/controllers/dataPackageCtrl.js"
-					],
-					[
-						"datapackage_test_0.json",
-						"tests/black_box_test/files/dataPackageResource/dataPackage_test_0.json"
-					],
-					[
-						"datapa",
-						"public/js/controllers/dataPackageCtrl.js"
-					],
-					[
-						"editdatapm",
-						"views/angular_templates/edit_data_app_modal.jade"
-					],
-					[
-						"dat0",
-						"tests/black_box_test/files/dataAppResource/dataApp_test_0.json"
+						"solver",
+						"code/as4-8puzzle/Solver.java"
 					]
 				],
 				"width": 0.0
@@ -1907,6 +350,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1915,6 +359,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1923,14 +368,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 200.0,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 1280.0
 	},
 	"windows":
 	[
@@ -1940,895 +385,134 @@
 				"selected_items":
 				[
 					[
-						"clas",
-						"classList"
-					],
-					[
-						"hover",
-						"hoveredTab"
-					],
-					[
-						"tab",
-						"tablist"
-					],
-					[
-						"background-c",
-						"background-color"
-					],
-					[
-						"hove",
-						"hoveredTab"
-					],
-					[
-						"ho",
-						"hoveredTab"
-					],
-					[
-						"pre",
-						"prevDate"
+						"select",
+						"selectors"
 					],
 					[
 						"for",
-						"for	keyword"
+						"for	js_for"
 					],
 					[
-						"getS",
-						"getS3DownloadPolicy"
-					],
-					[
-						"getDo",
-						"getDownloadS3Policy"
-					],
-					[
-						"pri",
-						"printingId"
-					],
-					[
-						"printg",
-						"printings"
-					],
-					[
-						"comm",
-						"commonHeaderCtrl"
-					],
-					[
-						"prit",
-						"printingId"
-					],
-					[
-						"resou",
-						"resourceId"
-					],
-					[
-						"bod",
-						"body	Tag"
-					],
-					[
-						"getE",
-						"getReport"
-					],
-					[
-						"rout",
-						"routeParams"
-					],
-					[
-						"printI",
-						"printingId"
-					],
-					[
-						"printin",
-						"printingResult"
-					],
-					[
-						"user",
-						"username"
-					],
-					[
-						"re",
-						"report"
-					],
-					[
-						"selec",
-						"selectedPrinting"
-					],
-					[
-						"getRp",
-						"getReport"
-					],
-					[
-						"printi",
-						"printingCtrl"
+						"p",
+						"python	(print_python.sublime)"
 					],
 					[
 						"print",
-						"printingResult"
+						"println"
 					],
 					[
-						"reporid",
-						"reportId"
+						"pa",
+						"partials"
 					],
 					[
-						"getRe",
-						"getReport"
+						"resiz",
+						"resizeArray"
 					],
 					[
-						"res",
-						"response"
-					],
-					[
-						"get",
-						"getPrinting"
-					],
-					[
-						"prti",
-						"printingId"
-					],
-					[
-						"ad",
-						"addAlert"
-					],
-					[
-						"com",
-						"complete"
-					],
-					[
-						"btn",
-						"btn-primary"
-					],
-					[
-						"active",
-						"active"
-					],
-					[
-						"file",
-						"fileString"
-					],
-					[
-						"resp",
-						"response"
-					],
-					[
-						"ng-re",
-						"ng-require"
-					],
-					[
-						"cor",
-						"correspondenceIsValid"
-					],
-					[
-						"corr",
-						"correspondenceIsValid"
-					],
-					[
-						"read",
-						"readFirstNLines"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"on",
-						"onFileRowSelect"
-					],
-					[
-						"moda",
-						"modalChooseDataFileCtrl"
-					],
-					[
-						"open",
-						"openChooseDataFileModal"
-					],
-					[
-						"modalCo",
-						"modalChooseDataFileCtrl"
-					],
-					[
-						"getU",
-						"getUserJobsPeriodically"
-					],
-					[
-						"getDa",
-						"getDataApp"
-					],
-					[
-						"row",
-						"row-fluid"
-					],
-					[
-						"who",
-						"whos_turn_to_play"
-					],
-					[
-						"inf",
-						"info_div"
-					],
-					[
-						"clieF",
-						"clientResourceField"
-					],
-					[
-						"fie",
-						"fieldId"
-					],
-					[
-						"dat",
-						"dataApp"
-					],
-					[
-						"f",
-						"f	js_function"
-					],
-					[
-						"post",
-						"postJob"
-					],
-					[
-						"client",
-						"clientFieldId"
-					],
-					[
-						"clie",
-						"clientResource"
-					],
-					[
-						"clien",
-						"cliententResourceId"
-					],
-					[
-						"field",
-						"fieldCorrespondence"
-					],
-					[
-						"fieldC",
-						"fieldCorrespondences"
-					],
-					[
-						"fiel",
-						"fieldCorrespondence"
-					],
-					[
-						"select",
-						"selectedCorrespondence"
-					],
-					[
-						"selc",
-						"selectedCorrespondence"
-					],
-					[
-						"reso",
-						"resources"
-					],
-					[
-						"data",
-						"dataPackageResource"
-					],
-					[
-						"fieldCore",
-						"fieldCorrespondence"
-					],
-					[
-						"selecte",
-						"selectedDataPackageResource"
-					],
-					[
-						"init",
-						"initCorrespondence"
-					],
-					[
-						"clientFie",
-						"clientFieldId"
-					],
-					[
-						"fieldCO",
-						"fieldCorrespondence"
-					],
-					[
-						"core",
-						"correspondence"
-					],
-					[
-						"clienF",
-						"clientFieldId"
-					],
-					[
-						"sele",
-						"selectedDataPackageResource"
-					],
-					[
-						"valida",
-						"validateDataCtrl"
-					],
-					[
-						"spec",
-						"specificErrors"
-					],
-					[
-						"colum",
-						"columnId"
-					],
-					[
-						"in",
-						"in	js_for_in"
-					],
-					[
-						"resour",
-						"resource"
-					],
-					[
-						"progre",
-						"progressToValidate"
-					],
-					[
-						"progr",
-						"progressToValidate"
-					],
-					[
-						"fi",
-						"fields"
-					],
-					[
-						"su",
-						"success"
-					],
-					[
-						"aler",
-						"alertService"
-					],
-					[
-						"onRow",
-						"onFileRowSelect($index"
-					],
-					[
-						"time",
-						"timeout"
-					],
-					[
-						"tim",
-						"timeout"
-					],
-					[
-						"getData",
-						"getDataPackage"
-					],
-					[
-						"dataP",
-						"dataPackageCtrl"
-					],
-					[
-						"dataPa",
-						"dataPackage"
-					],
-					[
-						"data_fil",
-						"data_files_table"
-					],
-					[
-						"fff",
-						"ffffff"
-					],
-					[
-						"run",
-						"runApp"
-					],
-					[
-						"modalIn",
-						"modalInfoDataAppCtrl"
-					],
-					[
-						"sub",
-						"submitFileToS3"
-					],
-					[
-						"proce",
-						"processData"
-					],
-					[
-						"load",
-						"loadHandler"
-					],
-					[
-						"ret",
-						"returnValue"
-					],
-					[
-						"pos",
-						"postJob"
-					],
-					[
-						"addRe",
-						"addResourceToUser"
-					],
-					[
-						"cons",
-						"cons	consoleLog"
-					],
-					[
-						"addR",
-						"addResource"
-					],
-					[
-						"url",
-						"urlBase"
-					],
-					[
-						"getUserD",
-						"getUserDataFiles"
-					],
-					[
-						"per",
-						"percentComplete"
-					],
-					[
-						"http",
-						"http"
-					],
-					[
-						"htt",
-						"http"
-					],
-					[
-						"onF",
-						"onFileSelect"
-					],
-					[
-						"content",
-						"contentType"
-					],
-					[
-						"pro",
-						"properties"
-					],
-					[
-						"specif",
-						"specific"
-					],
-					[
-						"uploa",
-						"upload"
-					],
-					[
-						"incl",
-						"includes"
-					],
-					[
-						"admin",
-						"admin_console"
-					],
-					[
-						"ace",
-						"accessible"
-					],
-					[
-						"server",
-						"serverFactory"
-					],
-					[
-						"acc",
-						"accesibleDataApps"
-					],
-					[
-						"conver",
-						"convertArrayToTrueKeys"
-					],
-					[
-						"acces",
-						"accessible"
-					],
-					[
-						"out",
-						"output"
-					],
-					[
-						"chec",
-						"checkbox"
-					],
-					[
-						"getAl",
-						"getAllDataApps"
-					],
-					[
-						"angu",
-						"angular_templates"
-					],
-					[
-						"an",
-						"angular_templates"
-					],
-					[
-						"serv",
-						"serverFactory"
-					],
-					[
-						"add",
-						"addResource"
-					],
-					[
-						"addData",
-						"addDataPackage"
-					],
-					[
-						"tabl",
-						"tableId"
+						"en",
+						"enqueueBoard"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/da/code/misc/blitz_fullscreen_chrome_extension/background.js",
+					"file": "/Users/da/Dropbox/programming/python/rhythm_game/rhythm_enterer.py",
 					"settings":
 					{
-						"buffer_size": 1962,
+						"buffer_size": 618,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/da/code/misc/blitz_fullscreen_chrome_extension/content-main.js",
+					"file": "/Users/da/Dropbox/programming/python/rhythm_game/README.md",
 					"settings":
 					{
-						"buffer_size": 5414,
+						"buffer_size": 1793,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/da/code/misc/blitz_fullscreen_chrome_extension/content-styles.css",
+					"file": "/Users/da/Dropbox/programming/python/rhythm_game/game.py",
 					"settings":
 					{
-						"buffer_size": 1911,
+						"buffer_size": 6499,
 						"line_ending": "Unix"
 					}
 				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 75.0,
+				"height": 392.0,
+				"last_filter": "ke",
 				"selected_items":
 				[
 					[
-						"copy nam",
-						"File: Copy Name"
+						"ke",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"enabl",
-						"Package Control: Enable Package"
+						"setting",
+						"Preferences: Settings - User"
 					],
 					[
-						"cop",
-						"File: Copy Path"
+						"dup",
+						"File: Duplicate"
 					],
 					[
-						"copna",
-						"File: Copy Name"
+						"keyb",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"del",
-						"File: Delete"
+						"du",
+						"File: Duplicate"
 					],
 					[
-						"highvis",
-						"BracketHighlighter: Toggle High Visibility Mode"
+						"d",
+						"File: Duplicate"
 					],
 					[
-						"highvi",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"copy na",
-						"File: Copy Name"
-					],
-					[
-						"copn",
-						"File: Copy Name"
-					],
-					[
-						"copy",
-						"File: Copy Name"
+						"kind",
+						"Preferences: Key Bindings - Default"
 					],
 					[
 						"rena",
 						"File: Rename"
 					],
 					[
-						"hig v",
-						"BracketHighlighter: Toggle High Visibility Mode"
+						"ssp",
+						"Set Syntax: Python"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
+						"bind",
+						"Preferences: Key Bindings - Default"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"disabl",
-						"Package Control: Disable Package"
+						"bindi",
+						"Preferences: Key Bindings - User"
 					],
 					[
 						"user",
 						"Preferences: Key Bindings - User"
 					],
 					[
-						"bind",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"high vis",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"highl vis",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"tabs",
-						"View: Toggle Tabs"
-					],
-					[
-						"vi",
-						"View: Toggle Tabs"
-					],
-					[
-						"bidn",
-						"Preferences: Key Bindings - Default"
-					],
-					[
-						"settin",
-						"Preferences: Settings - User"
-					],
-					[
-						"mini",
-						"View: Toggle Minimap"
-					],
-					[
-						"view ",
-						"View: Toggle Minimap"
-					],
-					[
-						"view st",
-						"View: Toggle Status Bar"
-					],
-					[
-						"git com",
-						"Git: Commit"
-					],
-					[
-						"status",
-						"Git: Status"
-					],
-					[
-						"status ",
-						"Git: Quick Status"
-					],
-					[
-						"view sta",
-						"View: Toggle Status Bar"
-					],
-					[
-						"view",
-						"View: Toggle Tabs"
-					],
-					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"high",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"high vi",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"renam",
-						"File: Rename"
-					],
-					[
-						"reg",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"whi",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"expa",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"rege",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"inpu",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"seq",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"reg rep",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"reg reg",
-						"Reg Replace: RegEx Input Sequencer"
-					],
-					[
-						"hig vi",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"",
-						"BracketHighlighter: Toggle High Visibility Mode"
-					],
-					[
-						"js",
-						"Snippet: Object Value JS"
-					],
-					[
-						"move",
-						"File: Move"
-					],
-					[
-						"COP",
-						"File: Copy Path"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"slo",
-						"Sort Lines"
-					],
-					[
-						"expan",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"expand",
-						"Expand Selection to Whitespace"
-					],
-					[
-						"INDE",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"file cp pa ",
-						"File: Copy Path"
-					],
-					[
-						"vinta",
-						"Markdown Preview: Open Markdown Cheat sheet"
-					],
-					[
-						"mar ed se",
-						"Preferences: MarkdownEditing Settings – Default"
-					],
-					[
-						"markdow set",
-						"Preferences: MarkdownEditing Settings – User"
-					],
-					[
-						"editing",
-						"Preferences: MarkdownEditing Settings – Default"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"bin",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"snip",
-						"Snippet: for (…) {…}"
-					],
-					[
-						"DISABL",
-						"Package Control: Disable Package"
-					],
-					[
-						"markd",
-						"Set Syntax: MultiMarkdown"
-					],
-					[
-						"makr",
-						"Set Syntax: Markdown"
-					],
-					[
-						"mard",
-						"Markdown Preview: Python Markdown: Preview in Browser"
-					],
-					[
-						"new",
-						"Markdown Preview: Open Markdown Cheat sheet"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"prefer",
-						"Preferences: Browse Packages"
-					],
-					[
-						"diabl",
-						"Package Control: Disable Package"
-					],
-					[
-						"pack",
-						"Package Control: Add Channel"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"defa",
-						"Preferences: Settings - Default"
-					],
-					[
-						"BIND",
-						"Preferences: Key Bindings - User"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"bindin",
+						"key",
 						"Preferences: Key Bindings - Default"
 					]
 				],
-				"width": 647.0
+				"width": 521.0
 			},
 			"console":
 			{
-				"height": 337.0,
+				"height": 139.0,
 				"history":
 				[
-					"view.run_command('prefixr')",
-					"view.run_command('example')",
-					"view.run('hello world')",
-					"view.run_command('example')",
-					"view.run('hello world')",
-					"view.run_command('rot13')",
-					"view.runCommand('rot13')",
-					"view.run_command('Rot13')",
-					"sublime.__file__",
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
-					" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -2840,317 +524,91 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Users/da/Dropbox/programming/python/rhythm_game",
+				"/Users/da/Dropbox/programming/python/rhythm_game/database"
+			],
 			"file_history":
 			[
-				"/home/da/code/misc/blitz_fullscreen_chrome_extension/libs/ace/snippets/css.js",
-				"/home/da/code/misc/blitz_fullscreen_chrome_extension/content-styles.css",
-				"/home/da/code/misc/fbdata/html/most-talked.html",
-				"/home/da/code/misc/fbdata/html/json/chat_data.json",
-				"/home/da/code/misc/fbdata/html/messages.htm",
-				"/home/da/code/misc/fbdata/html/contact_info.htm",
-				"/home/da/code/misc/fbdata/html/moment.min.js",
-				"/home/da/code/misc/fbdata/html/horizon.js",
-				"/home/da/code/misc/fbdata/html/draw.js",
-				"/home/da/code/misc/fbdata/html/d3.js",
-				"/home/da/code/misc/fbdata/index.htm",
-				"/home/da/code/misc/fbdata/html/message-stats.htm",
-				"/home/da/code/misc/fbdata/html/messages.js",
-				"/home/da/code/misc/fbdata/html/messages.htm~",
-				"/home/da/code/misc/fbdata/html/friends.htm",
-				"/home/da/code/misc/fbdata/html/events.htm",
-				"/home/da/code/misc/fbdata/html/d3.v3.min.js",
-				"/home/da/code/misc/fbdata/html/cubism.min.js",
-				"/home/da/code/misc/fbdata/html/cubism-demo.html",
-				"/home/da/code/misc/fbdata/html/angular.min.js",
-				"/home/da/code/misc/fbdata/html/ads.htm",
-				"/home/da/code/aentropico/erdos-planck/views/store/reports.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalInputCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/examples/population-plain-objects.js",
-				"/home/da/code/aentropico/erdos-planck/req_schemas/resources/jobs/postJob.json",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/buffer-crc32/package.json",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/connect/node_modules/multiparty/test/fixture/http/special-chars-in-filename/osx-firefox-3.6.http",
-				"/home/da/code/aentropico/erdos-planck/utils/s3Utilities.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/stylus/node_modules/sax/test/issue-23.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/stylus/node_modules/sax/test/issue-47.js",
-				"/home/da/code/aentropico/erdos-planck/README.md",
-				"/home/da/code/aentropico/erdos-planck/routes/common/render.js",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/edit_data_app_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/jobCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/rekuire/test/helpers/package-creator.js",
-				"/home/da/code/aentropico/erdos-planck/persistence/daos/composedDaos/clientResourceProvider.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/dataAppCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/files/dataAppResource/dataApp_test_0.json",
-				"/home/da/code/aentropico/erdos-planck/node_modules/form-data/node_modules/combined-stream/test/integration/test-delayed-streams-and-buffers-and-strings.js",
-				"/home/da/code/aentropico/erdos-planck/views/store/data_app_result.jade",
-				"/home/da/code/aentropico/erdos-planck/routes/dataAppRoute.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/lib/errors/validation.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/validateDataCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/package.json",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/common/omnipresentAgent.js",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/rerender_report_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/schemas/printing.js",
-				"/home/da/code/aentropico/erdos-planck/req_schemas/resources/resources|dataTables/postResource.json",
-				"/home/da/code/aentropico/erdos-planck/views/store/data_app.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/daos/reportProvider.js",
-				"/home/da/code/aentropico/erdos-planck/views/store/owner_one.jade",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/composedTest/clientDataAppTest.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/dataAppAgreggation/dataAppTest.js",
-				"/home/da/code/aentropico/erdos-planck/views/client/client_data.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/daos/dataAppProvider.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/ae-github/node_modules/xmlhttprequest/tests/testdata.txt",
-				"/home/da/code/aentropico/erdos-planck/node_modules/atob/test.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/form-data/node_modules/combined-stream/test/integration/test-empty-string.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/ae-github/node_modules/xmlhttprequest/tests/test-events.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-delayed-stream-pause.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/reportTest.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/jade/lib/filters.js",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/data_files_table.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/lib/angular/angular-file-upload.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/oop/oop-min.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/commonjs-utils/lib/observe.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/createlink-base/createlink-base.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/createlink-base/createlink-base-coverage.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/cssgrids-responsive/cssgrids-responsive.css",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/clickable-rail/clickable-rail.js",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/files/clientResource/clientExample2.json",
-				"/home/da/code/aentropico/erdos-planck/views/includes/client_menu.jade",
-				"/home/da/code/aentropico/erdos-planck/persistence/schemas/client.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/superagent/docs/head.html",
-				"/home/da/code/aentropico/erdos-planck/node_modules/rio/node_modules/.bin/hexy",
-				"/home/da/code/aentropico/erdos-planck/node_modules/expect.js/History.md",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/lib/router/route.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/rio/node_modules/binary/test/eof.js",
-				"/home/da/.zshrc",
-				"/home/da/.cache/.fr-AdtVlz/MarkdownEditor-Dark.tmTheme",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/node_modules/request/node_modules/form-data/node-form-data.sublime-project",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/substitute/substitute.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/factories/serverFactory.js",
-				"/home/da/.config/sublime-text-3/Installed",
-				"/home/da/.cache/.fr-jJwlDd/MarkdownEditor-Dark.tmTheme",
-				"/home/da/code/aentropico/erdos-planck/Packages",
-				"/home/da/.config/sublime-text-3/Packages/User/js_for.sublime-snippet",
-				"/home/da/.config/sublime-text-3/Packages/User/js_log_selected.sublime-macro",
-				"/home/da/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Package Control.last-run",
-				"/home/da/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Markdown Extended.sublime-settings",
-				"/home/da/.config/sublime-text-3/Packages/User/Default.sublime-commands",
-				"/home/da/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/dataFileCtrl.js",
-				"/home/da/code/misc/aentropico-task/misc/downloads/mean/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
-				"/home/da/code/misc/aentropico-task/node_modules/express/LICENSE",
-				"/home/da/code/misc/fbdata/html/json/threadLetterCount.json",
-				"/home/da/code/misc/fbdata/html/jquery-2.0.3.min.js",
-				"/home/da/code/aentropico/erdos-planck/routes/jobRoute.js",
-				"/home/da/code/aentropico/erdos-planck/views/includes/common_header.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalReRenderReportCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalConfirmationCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/lib/_stream_readable.js",
-				"/home/da/code/aentropico/erdos-planck/views/store/client_dashboard.jade",
-				"/home/da/code/aentropico/erdos-planck/tests/black_box_test/clientTest.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/.bin/express",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/event-resize/event-resize.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/range-parser/package.json",
-				"/tmp/\"printingResults\" : [",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/rerender_report_modal",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/report_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/mongoose/node_modules/mongodb/lib/mongodb/commands/get_more_command.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/lib/mozilla-ast.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/Makefile",
-				"/home/da/code/aentropico/erdos-planck/views/angular_templates/confirmation_modal.jade",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/modalEditUserCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/tests/generators/populatedb.mongo.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/express/node_modules/mkdirp/test/perm_sync.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
-				"/home/da/code/aentropico/erdos-planck/public/js/controllers/commonHeaderCtrl.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/async/component.json",
-				"/home/da/code/aentropico/erdos-planck/views/index.jade",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/io-nodejs/io-nodejs-debug.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/node_modules/yui/io-nodejs/io-nodejs.js",
-				"/home/da/code/aentropico/erdos-planck/node_modules/yuidocjs/tests/input/charts/TopAxisLayout.js"
+				"/Users/da/code/freelance/profmarysmorgan/home.htm",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/do-with-variable-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/BeautifyRuby.sublime-settings",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/puts-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/puts-with-template-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/do-ruby.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/method.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/puts.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/print_python.sublime-snippet",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/da/.zshrc",
+				"/Users/da/Library/Application Support/Sublime Text 3/Packages/User/println_java.sublime-snippet",
+				"/Users/da/algorithms1-coursera/code/as4-8puzzle/Board.java",
+				"/Users/da/algorithms1-coursera/readme.md"
 			],
 			"find":
 			{
-				"height": 48.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
-				"height": 123.0,
+				"height": 93.0,
 				"where_history":
 				[
-					"",
-					"public/",
-					"",
-					"views/",
-					"",
-					"routes/",
-					"routes",
-					"",
-					"public/",
-					"public",
-					"",
-					"./app/,",
-					"./app/,./misc",
-					"./app/",
-					"app/",
-					"app",
-					"",
-					"/home/da/code/misc/aentropic/server.js,/home/da/code/misc/aentropic/server/",
-					"/home/da/code/misc/aentropic/server.js;/home/da/code/misc/aentropic/server/",
-					"home/da/code/misc/aentropic/server.js;home/da/code/misc/aentropic/server/",
-					"home/da/code/misc/aentropic/server.js; home/da/code/misc/aentropic/server/",
-					"home/da/code/misc/aentropic/server.js",
-					"./server.js;.server/",
-					"./server.js;.server",
-					"./server.js;./server",
-					"./server.js;./server/",
-					"server.js;server/",
-					"",
-					"/home/da/code/frontend/blog/node_modules/monk",
-					"/home/da/code/frontend/blog",
-					"./node_modules",
-					"",
-					".",
-					"",
-					"hellodjango/",
 					""
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"overflo",
-					"i",
-					"seq",
-					"seq[k]",
-					"]",
-					"response",
-					"has",
-					"printing",
-					"dataA",
-					"postJon",
-					"modal",
-					"cleanDataBase",
-					"printing",
-					"reportId",
-					">Markdown",
-					"link",
-					"d3.json",
-					"_data",
-					"data",
-					"cons",
-					"job",
-					"openReRenderReportModal",
-					"printing",
-					" serverFactory,",
-					"title ",
-					"report",
-					"route",
-					"reports",
-					"print ",
-					"updateReportState",
-					"app_",
-					"printing",
-					"d",
-					"ans",
-					"printingId",
-					"getS3",
-					"planck/response",
-					"req_schemas/components/planck/response",
-					"intro:",
-					"intro: ",
-					"intro",
-					"getClientReports",
-					"myXhr.upload.onprogress",
-					"progress",
-					"Height",
-					"button.",
-					"icon",
-					"width",
-					"button",
-					"animate",
-					"report",
-					"ng-animate",
-					"ngAnimate",
-					".aler",
-					"client_menu",
-					"username",
-					"username/",
-					"sierpinski/",
-					"e",
-					"client",
-					"background-color: #ff",
-					"background-color: #",
-					"background-color",
-					".container.",
-					".button.green-button.text-shadow",
-					"ng-click",
-					"correspondenceIsValid",
-					"ng-",
-					"ng-req",
-					"ng-re",
-					"-table",
-					"table-",
-					"table",
-					"fieldsToValidate += 1;",
-					"have",
-					"You ha",
-					"onSucccessS3Upload",
-					"onSuccessS3Upload",
-					"cons",
-					"dataApp_test_0.json",
-					"(urllib2.",
-					"(urllib2.HTTPError) as (e)",
-					"(",
-					"tv",
-					"table",
-					"dataApp",
-					"openEditDataAppModal",
-					"modal",
-					"printingR",
-					"job",
-					"dataApp",
-					"DataApp",
-					"sharedByAppView",
-					"vices/sharedByAppView',\n                    'services/alertService',\n                    'services/sharedByInputFile',\n                    'directives/files_table'\n                ]\n            },\n\n            '/sierpinski/:username/client_jobs': {\n                templateUrl: '/views/client/client_jobs',\n                dependencies: [\n                    'controllers/loginCtrl',\n                    'controllers/commonHeaderCtrl', \n                    'controllers/navCtrl',\n                    'factories/userFactory',\n                    'factories/serverFactory',\n                    'services/sharedByAppView',\n                    'services/alertService'\n                ]\n            },\n\n            '/sierpinski/dataApps/:dataApp': {\n                templateUrl: '/views/store/data_app',\n                dependencies: [\n                    'controllers/loginCtrl',\n                    'controllers/navCtrl',\n                    'controllers/commonHeaderCtrl', \n                    'controllers/dataFileCtrl',\n                    'controllers/validateDataCtrl',\n                    'factories/userFactory',\n                    'factories/serverFactory',\n                    'services/alertService',\n                    'controllers/dataAppCtrl',\n                    'controllers/dataPackageCtrl',\n                    'services/sharedByAppView',\n                    'services/sharedByInputFile',\n                    'directives/files_table'\n                ]\n            },\n\n            '/sierpinski/dataApps/:dataApp/result': {\n                templateUrl: '/views/store/data_app_result',\n                dependencies: [\n                    'controllers/loginCtrl',\n                    'controllers/commonHeaderCtrl', \n                    'controllers/navCtrl',\n                    'controllers/dataAppCtrlResult',\n                    'controllers/reportCtrl',\n                    'controllers/modalInputCtrl',\n                    'factories/serverFactory',\n                    'factories/userFactory',\n                    'services/sharedByAppView",
-					"sharedByAppView",
-					"job",
-					"0.3s",
-					"transition:",
-					"-duration",
-					"mfbx9da4",
-					"reports",
-					"loadShinyUrl",
-					"result",
-					"Save Report",
-					"Save report",
-					"save report",
-					"re",
-					"resu",
-					"form",
-					"request",
-					"report",
-					"reportInfo",
-					"\"reportInfo\"",
-					"type",
-					"additionalProperties",
-					"bar",
-					"side",
-					"jobs",
-					"job",
-					"setCorrespondanceField",
-					"clientResource",
-					"clientFieldId",
-					"resource.fields",
-					"removeResourceData",
-					"cons",
-					"selectedCorrespondence",
-					"correspondence",
-					"getDataApp"
+					"dynamicmodel",
+					"wixad",
+					"Udacity",
+					"\\item",
+					"replace",
+					"line",
+					"line_",
+					"ctrl",
+					"begin",
+					"+up",
+					"super+up",
+					"alt",
+					"ctrl",
+					"rails",
+					"move",
+					"saveBoard",
+					"+delete\"",
+					"delete\"",
+					"delete",
+					"ctrl+dele",
+					"fn+ctrl",
+					"println",
+					"prinln",
+					"NeighborIterator",
+					"code/as",
+					"as-",
+					"as",
+					"public Iterable",
+					"return partials",
+					"partials",
+					"partials = ",
+					"enqueueBoard",
+					"segments",
+					"LineSegment",
+					"length",
+					"resize",
+					"enqueueBoard",
+					"delete",
+					"line",
+					"current",
+					"Queue<Board>",
+					"[username:~/algs4/] "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3158,91 +616,17 @@
 				"regex": false,
 				"replace_history":
 				[
-					"",
-					"store/data_scientist_",
-					"DataPackage",
-					"dataPackage",
-					"selected_pos",
-					"available_positions",
-					"board.animated_squares",
-					"board.checker_objects[",
-					"translateCoordsToPos",
-					"position_is_empty",
-					"cell_is_empty",
-					"teams",
-					"peices",
-					"PEICES",
-					"select_square",
-					"select_checker",
-					"selected_checker.team",
-					"CTYPES",
-					"ctypes",
-					"types",
-					"ccfg",
-					" cfg[",
-					"must_jump",
-					"second_jump",
-					"switch_player",
-					"board.animated",
-					"find_legal_moves",
-					"active",
-					"show_legal",
-					"0",
-					"buildLineChartFromReportId",
-					"buildBarChartFromReportId",
-					"3000\n",
-					"buildChartFromReportId",
-					"../../../libs/angular-route.min.js",
-					"home/da/david/HOME/david/Music/youtube-dl/Yerba_Buena_-_Electric_Boogaloo-iXYZjLzb50I.mp3\n",
-					"./How to get started (Part 1 of the AngularJS - from beginner to expert in 7 steps series)   ng-newsletter_files/angular.min.js",
-					")",
-					"report",
-					"job",
-					"report",
-					"algorithm",
-					"0.2s",
-					"",
-					"</",
-					"David Adler",
-					"row",
-					"col-md-$1",
-					"col-md-\\d",
-					"col-md-",
-					"Source Sans Pro, Open Sans, Helvetica, Arial, sans-serif;",
-					"8000",
-					"SourceCodePro",
-					"AlegreyaSans",
-					"Electrolize",
-					"PoiretOne",
-					"PTMono",
-					"SourceCodePro",
-					"GildaDisplay",
-					"WaitingfortheSunrise",
-					"OpenSans",
-					"writeMain",
-					"el",
-					"hellodja",
-					"spritesheetgen",
-					"el",
-					"dim",
-					"star_stable",
-					"#",
-					"sprite0",
-					"centered",
-					"new",
-					"\n	"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
-					"path": "/home/da/code/misc/blitz_fullscreen_chrome_extension"
+					"path": "/Users/da/Dropbox/programming/python/rhythm_game"
 				}
 			],
 			"groups":
@@ -3253,19 +637,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/da/code/misc/blitz_fullscreen_chrome_extension/background.js",
+							"file": "/Users/da/Dropbox/programming/python/rhythm_game/rhythm_enterer.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1962,
+								"buffer_size": 618,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										296,
-										296
+										0,
+										0
 									]
 								],
 								"settings":
@@ -3273,48 +657,63 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
+										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close"
+										"bh_unmatched_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"syntax": "Packages/Python/Python.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
@@ -3327,19 +726,19 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/da/code/misc/blitz_fullscreen_chrome_extension/content-main.js",
+							"file": "/Users/da/Dropbox/programming/python/rhythm_game/README.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5414,
+								"buffer_size": 1793,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4241,
-										4241
+										208,
+										208
 									]
 								],
 								"settings":
@@ -3347,53 +746,66 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
+										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close"
+										"bh_unmatched_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 3776.0,
+								"translation.y": 1058.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -3401,19 +813,19 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/home/da/code/misc/blitz_fullscreen_chrome_extension/content-styles.css",
+							"file": "/Users/da/Dropbox/programming/python/rhythm_game/game.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1911,
+								"buffer_size": 6499,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										221,
-										221
+										1,
+										1
 									]
 								],
 								"settings":
@@ -3421,53 +833,68 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
-										"bh_unmatched_close"
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 192.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -3478,11 +905,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 42.0
+				"height": 35.0
 			},
 			"layout":
 			{
@@ -3507,541 +934,75 @@
 				]
 			},
 			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 142.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.markdown":
-			{
-				"height": 148.0
-			},
-			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"pinned_build_system": "",
+			"position": "0 0 4 1280 773 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"",
-						"content-styles.css"
+						"home",
+						"home.htm"
 					],
 					[
-						"conc",
-						"content-styles.css"
+						"hom",
+						"home.htm"
 					],
 					[
-						"cont",
-						"content-main.js"
+						"conslog",
+						"consoleLog.sublime-snippet"
 					],
 					[
-						"back",
-						"background.js"
+						"doru",
+						"do-with-variable-ruby.sublime-snippet"
 					],
 					[
-						"messa.j",
-						"html/messages.js"
+						"beaut",
+						"BeautifyRuby.sublime-settings"
 					],
 					[
-						"cha",
-						"html/json/chat_data.json"
+						"puts",
+						"puts-ruby.sublime-snippet"
 					],
 					[
-						".p",
-						"html/sortByKey.py"
+						"snip",
+						"method.sublime-snippet"
 					],
 					[
-						"main",
-						"html/chatStats/main.js"
+						"linu",
+						"Default (Linux).sublime-keymap"
 					],
 					[
-						"most",
-						"html/most-talked.html"
+						"linux",
+						"Default (Linux).sublime-keymap"
 					],
 					[
-						".js",
-						"html/chatStats/main.js"
+						"prija",
+						"println_java.sublime-snippet"
 					],
 					[
-						"repo",
-						"views/store/report.jade"
+						"sol",
+						"code/as4-8puzzle/Solver.java"
 					],
 					[
-						"serv",
-						"public/js/factories/serverFactory.js"
+						"boar",
+						"code/as4-8puzzle/Board.java"
 					],
 					[
-						"reportct",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"rep",
-						"views/store/report.jade"
-					],
-					[
-						"ap",
-						"app.js"
-					],
-					[
-						"report",
-						"views/store/report.jade"
-					],
-					[
-						"reportro",
-						"routes/reportRoute.js"
-					],
-					[
-						"app",
-						"app.js"
-					],
-					[
-						"repc",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"rec",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"repoct",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"repoctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reprtctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"approut",
-						"public/js/appRoutes.js"
-					],
-					[
-						"reren",
-						"views/angular_templates/rerender_report_modal.jade"
-					],
-					[
-						"jobrou",
-						"routes/jobRoute.js"
-					],
-					[
-						"serve",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"datafile",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"postjob",
-						"req_schemas/resources/jobs/postJob.json"
-					],
-					[
-						"validada",
-						"public/js/controllers/validateDataCtrl.js"
-					],
-					[
-						"rere",
-						"views/angular_templates/rerender_report_modal.jade"
-					],
-					[
-						"print",
-						"public/js/controllers/printingCtrl.js"
-					],
-					[
-						"apprt",
-						"public/js/appRoutes.js"
-					],
-					[
-						"printc",
-						"public/js/controllers/printingCtrl.js"
-					],
-					[
-						"rerender",
-						"views/angular_templates/rerender_report_modal.jade"
-					],
-					[
-						"rerend",
-						"public/js/controllers/modalReRenderReportCtrl.js"
-					],
-					[
-						"printingctr",
-						"public/js/controllers/printingCtrl.js"
-					],
-					[
-						"data_ap",
-						"views/store/data_app.jade"
-					],
-					[
-						"reportctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reportc",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reporttes",
-						"tests/black_box_test/reportTest.js"
-					],
-					[
-						"clientdat",
-						"tests/black_box_test/composedTest/clientDataAppTest.js"
-					],
-					[
-						"dataapp",
-						"tests/black_box_test/dataAppAgreggation/dataAppTest.js"
-					],
-					[
-						"testdataap",
-						"tests/black_box_test/composedTest/clientDataAppTest.js"
-					],
-					[
-						"reportte",
-						"tests/black_box_test/reportTest.js"
-					],
-					[
-						"omnig",
-						"tests/black_box_test/common/omnipresentAgent.js"
-					],
-					[
-						"clie",
-						"views/includes/client_menu.jade"
-					],
-					[
-						"setting",
-						"views/common/settings.jade"
-					],
-					[
-						"clientdash",
-						"views/store/client_dashboard.jade"
-					],
-					[
-						"appro",
-						"public/js/appRoutes.js"
-					],
-					[
-						"header",
-						"views/includes/common_header.jade"
-					],
-					[
-						"repct",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"servf",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"reopctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"reportja",
-						"views/store/report.jade"
-					],
-					[
-						"rea",
-						"README.md"
-					],
-					[
-						"js",
-						"js_for.sublime-snippet"
-					],
-					[
-						"datfil",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"line",
-						"app/lineChart.js"
-					],
-					[
-						"d",
-						"html/d3.js"
-					],
-					[
-						"mesjs",
-						"html/messages.js"
-					],
-					[
-						"messages.",
-						"html/messages.htm"
-					],
-					[
-						"j",
-						"html/jquery-2.0.3.min.js"
-					],
-					[
-						"mess",
-						"html/messages.htm"
-					],
-					[
-						"jobc",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						"cliejo",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"cliejob",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"appr",
-						"public/js/appRoutes.js"
-					],
-					[
-						"clietjob",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"job",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						"clie_job",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"repomod",
-						"views/angular_templates/report_modal.jade"
-					],
-					[
-						"reprt",
-						"routes/reportRoute.js"
-					],
-					[
-						"modalja",
-						"views/angular_templates/confirmation_modal.jade"
-					],
-					[
-						"modal",
-						"public/js/controllers/modalConfirmationCtrl.js"
-					],
-					[
-						"valid",
-						"public/js/controllers/validateDataCtrl.js"
-					],
-					[
-						"da",
-						"views/store/data_app.jade"
-					],
-					[
-						"data_app",
-						"views/store/data_app.jade"
-					],
-					[
-						"rpotes",
-						"tests/black_box_test/reportTest.js"
-					],
-					[
-						"commo",
-						"views/includes/common_header.jade"
-					],
-					[
-						"comonhed",
-						"views/includes/common_header.jade"
-					],
-					[
-						"index",
-						"views/index.jade"
-					],
-					[
-						"ser",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"reportr",
-						"routes/reportRoute.js"
-					],
-					[
-						"reppr",
-						"persistence/daos/reportProvider.js"
-					],
-					[
-						"user",
-						"routes/userRoute.js"
-					],
-					[
-						"boot",
-						"public/stylesheets/bootstrap.css"
-					],
-					[
-						"dataa",
-						"public/js/controllers/dataAppCtrl.js"
-					],
-					[
-						"jobct",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						".jade",
-						"views/store/reports.jade"
-					],
-					[
-						"id",
-						"ideas-for-programs.md"
-					],
-					[
-						"repor",
-						"views/store/reports.jade"
-					],
-					[
-						"dataaja",
-						"views/store/data_app.jade"
-					],
-					[
-						"datajso",
-						"tests/black_box_test/files/dataAppResource/dataAppExample1_Request.json"
-					],
-					[
-						"req_schemas/components/planck/response",
-						"req_schemas/components/planck/planckResponse.json"
-					],
-					[
-						"post",
-						"req_schemas/resources/jobs/postJob.json"
-					],
-					[
-						"packa",
-						"package.json"
-					],
-					[
-						"jobctr",
-						"public/js/controllers/jobCtrl.js"
-					],
-					[
-						"dataapc",
-						"public/js/controllers/dataAppCtrl.js"
-					],
-					[
-						"reportp",
-						"persistence/daos/reportProvider.js"
-					],
-					[
-						"reprctr",
-						"public/js/controllers/reportCtrl.js"
-					],
-					[
-						"clien_j",
-						"views/client/client_jobs.jade"
-					],
-					[
-						"uploa",
-						"public/js/directives/uploader.js"
-					],
-					[
-						"datafil",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"appmod",
-						"public/js/appModule.js"
-					],
-					[
-						"boo",
-						"public/stylesheets/bootstrap.css"
-					],
-					[
-						"alert",
-						"public/template/alert/alert.html"
-					],
-					[
-						"common_",
-						"views/includes/common_header.jade"
-					],
-					[
-						"navc",
-						"public/js/controllers/navCtrl.js"
-					],
-					[
-						"directiv",
-						"public/js/directives/fileDownload.js"
-					],
-					[
-						"dafil",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"data_",
-						"views/store/data_app.jade"
-					],
-					[
-						"servfa",
-						"public/js/factories/serverFactory.js"
-					],
-					[
-						"cliend",
-						"views/client/client_data.jade"
-					],
-					[
-						"clien",
-						"views/includes/client_menu.jade"
-					],
-					[
-						"clieme",
-						"views/includes/client_menu.jade"
-					],
-					[
-						"dap0",
-						"tests/black_box_test/files/dataPackageResource/dataPackage_test_0.json"
-					],
-					[
-						"datfi",
-						"public/js/controllers/dataFileCtrl.js"
-					],
-					[
-						"dataapjson",
-						"tests/black_box_test/files/dataAppResource/dataApp_test_0.json"
-					],
-					[
-						"dataappri",
-						"persistence/daos/dataAppProvider.js"
-					],
-					[
-						"admi",
-						"views/admin_console/admin_console.jade"
-					],
-					[
-						"commoerr",
-						"views/common/error.jade"
-					],
-					[
-						"pos",
-						"req_schemas/resources/jobs/postJob.json"
-					],
-					[
-						"dataapja",
-						"views/store/data_app.jade"
-					],
-					[
-						"admin",
-						"views/admin_console/admin_console.jade"
-					],
-					[
-						"daact",
-						"public/js/controllers/dataAppCtrl.js"
-					],
-					[
-						"dpc",
-						"public/js/controllers/dataPackageCtrl.js"
-					],
-					[
-						"datapackage_test_0.json",
-						"tests/black_box_test/files/dataPackageResource/dataPackage_test_0.json"
+						"solver",
+						"code/as4-8puzzle/Solver.java"
 					]
 				],
 				"width": 0.0
@@ -4049,6 +1010,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -4057,11 +1019,13 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -4069,12 +1033,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 200.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 306,
+			"window_id": 106,
 			"workspace_name": ""
 		}
 	],

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+html:5>(header>div#banner>(a[href=page\$.htm]>img[src="path\$.jpg"])*3)+(aside>ul>li>p*3>lorem)+(article.module*4>p*2>lorem)+footer>ul>li>a[href="#"]*5
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>full html5 page emmet</description>
+</snippet>

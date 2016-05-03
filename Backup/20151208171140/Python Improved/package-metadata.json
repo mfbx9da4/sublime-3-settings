@@ -1,0 +1,1 @@
+{"version": "2.0.1", "dependencies": [], "platforms": ["*"], "url": "https://github.com/MattDMo/PythonImproved", "sublime_text": "*", "description": "A better Python language definition for Sublime Text. Includes full support for Unicode, as well as both Python 2 and Python 3 syntax. Check out the Neon Color Scheme for highlighting."}

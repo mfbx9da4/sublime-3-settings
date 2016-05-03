@@ -10,21 +10,17 @@ Furthermore, the error highlighting code is also adapted from there.
 
 import os
 import re
-import sys
 import pickle
 from collections import defaultdict
-from functools import cmp_to_key, wraps
+from functools import cmp_to_key
 
 import sublime
 import sublime_plugin
 
-
-sys.path.insert(0, os.path.dirname(__file__))
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib"))
-import pyflakes
-from linter import Pep8Error, Pep8Warning, OffsetError, PythonLintError
-from sublime_python import proxy_for, get_setting, file_or_buffer_name
-from sublime_python import override_view_setting, get_current_active_view
+from SublimePythonIDE import pyflakes
+from SublimePythonIDE.sublime_python_errors import OffsetError, Pep8Error, Pep8Warning, PythonLintError
+from SublimePythonIDE.sublime_python import proxy_for, get_setting,\
+    file_or_buffer_name, override_view_setting, get_current_active_view, python_only
 
 error_underlines = defaultdict(list)
 violation_underlines = defaultdict(list)
@@ -33,6 +29,7 @@ error_messages = defaultdict(dict)
 violation_messages = defaultdict(dict)
 warning_messages = defaultdict(dict)
 
+erroneous_lines = dict()
 
 error_level_mapper = {
     'E': (error_messages, error_underlines),
@@ -92,7 +89,8 @@ def check(view=None):
         encoding = "utf-8"
     errors = proxy.check_syntax(code, encoding, lint_settings, filename)
     try:
-        errors = pickle.loads(errors.data)
+        if errors:
+            errors = pickle.loads(errors.data)
 
         vid = view.id()
         lines = set()
@@ -105,7 +103,13 @@ def check(view=None):
         warning_underlines[vid] = []
         warning_messages[vid] = {}
 
-        parse_errors(view, errors, lines, vid)
+        if errors:
+            parse_errors(view, errors, lines, vid)
+
+        erroneous_lines[vid] = ListWithPointer(sorted(set(
+            list(error_messages[vid].keys()) +
+            list(violation_messages[vid].keys()) +
+            list(warning_messages[vid].keys()))))
 
         # the result can be a list of errors, or single syntax exception
         try:
@@ -115,14 +119,14 @@ def check(view=None):
 
         update_statusbar(view)
     except Exception as error:
-        print("SublimePythonIDE: No server respose\n{0}".format(error))
+        print("SublimePythonIDE: No server response\n{0}".format(error))
 
 
+@python_only
 def update_statusbar(view):
     """Updates the view status bar
     """
-    if (_is_python_syntax(view)
-            and get_setting('python_linting', view, True)):
+    if get_setting('python_linting', view, True):
         lineno = view.rowcol(view.sel()[0].end())[0] + 0
         errors_msg = _get_lineno_msgs(view, lineno)
 
@@ -155,14 +159,14 @@ def _update_lint_marks(view, lines):
 
     _erase_lint_marks(view)
 
-    for name, underlines in _get_types(view).items():
-        if len(underlines) > 0:
-            view.add_regions(
-                'lint-underline-{name}'.format(name=name),
-                underlines,
-                'python_linter.underline.{name}'.format(name=name),
-                flags=sublime.DRAW_EMPTY_AS_OVERWRITE
-            )
+    # for name, underlines in _get_types(view).items():
+    #     if len(underlines) > 0:
+    #         view.add_regions(
+    #             'lint-underline-{name}'.format(name=name),
+    #             underlines,
+    #             scope_name(name),
+    #             flags=sublime.DRAW_EMPTY_AS_OVERWRITE
+    #         )
 
     if len(lines) > 0:
         outlines = _get_outlines(view)
@@ -171,12 +175,21 @@ def _update_lint_marks(view, lines):
             args = [
                 'lint-outlines-{0}'.format(lint_type),
                 outlines[lint_type],
-                'python_linter.outline.{0}'.format(lint_type),
+                scope_name(lint_type),
                 _get_gutter_mark_theme(view, lint_type),
                 outline_style.get(style, sublime.DRAW_OUTLINED)
             ]
 
             view.add_regions(*args)
+
+
+def scope_name(error_name):
+    result = {
+        "violation": "sublimepythonide.mark.error",
+        "illegal": "sublimepythonide.mark.error",
+        "warning": "sublimepythonide.mark.warning",
+    }.get(error_name)
+    return result
 
 
 def add_message(lineno, lines, message, messages):
@@ -292,7 +305,8 @@ def parse_errors(view, errors, lines, vid):
             continue
 
         add_message(error.lineno, lines, str(error), messages)
-        if isinstance(error, (Pep8Error, Pep8Warning, OffsetError, PythonLintError)):
+        if isinstance(error, (Pep8Error, Pep8Warning, OffsetError,
+                              PythonLintError)):
             underline_range(
                 view, error.lineno, error.offset, underlines
             )
@@ -302,8 +316,11 @@ def parse_errors(view, errors, lines, vid):
                 pyflakes.messages.UndefinedName,
                 pyflakes.messages.UndefinedExport,
                 pyflakes.messages.UndefinedLocal,
-                pyflakes.messages.Redefined,
-                pyflakes.messages.UnusedVariable)):
+                pyflakes.messages.RedefinedWhileUnused,
+                pyflakes.messages.UnusedVariable,
+                pyflakes.messages.ReturnOutsideFunction,
+                pyflakes.messages.ReturnWithArgsInsideGenerator,
+                pyflakes.messages.RedefinedInListComp)):
             underline_word(error.lineno, error.message_args[0], underlines)
         elif isinstance(error, pyflakes.messages.ImportShadowedByLoopVar):
             underline_for_var(
@@ -393,26 +410,6 @@ def _get_gutter_mark_theme(view, lint_type):
     return image
 
 
-def _is_python_syntax(view):
-    """Return true if we are in a Python syntax defined view
-    """
-
-    syntax = view.settings().get('syntax')
-    return bool(syntax and ("Python" in syntax))
-
-
-def python_only(func):
-    """Decorator that make sure we call the given function in python only
-    """
-
-    @wraps(func)
-    def wrapper(self, view):
-        if _is_python_syntax(view) and not view.is_scratch():
-            return func(self, view)
-
-    return wrapper
-
-
 class PythonLintingListener(sublime_plugin.EventListener):
 
     """This class hooks into various Sublime Text events to check
@@ -443,6 +440,7 @@ class PythonLintingListener(sublime_plugin.EventListener):
 
         check(view)
 
+    @python_only
     def on_selection_modified_async(self, view):
         """Update status bar text when cursor
         changes spot.
@@ -466,3 +464,55 @@ class PythonEnablePep8Command(sublime_plugin.ApplicationCommand):
         view = get_current_active_view()
         override_view_setting('pep8', True, view)
         check(view)
+
+
+class PythonNextErrorCommand(sublime_plugin.ApplicationCommand):
+
+    def run(self, *args):
+        view = get_current_active_view()
+        view_error_lines = erroneous_lines[view.id()]
+        next_error_line = view_error_lines.next()
+
+        path = "%s:%d" % (view.file_name(), next_error_line + 1)
+        view.window().open_file(path, sublime.ENCODED_POSITION)
+
+
+class PythonPreviousErrorCommand(sublime_plugin.ApplicationCommand):
+
+    def run(self, *args):
+        view = get_current_active_view()
+        view_error_lines = erroneous_lines[view.id()]
+        prev_error_line = view_error_lines.previous()
+
+        path = "%s:%d" % (view.file_name(), prev_error_line + 1)
+        view.window().open_file(path, sublime.ENCODED_POSITION)
+
+
+''' Util '''
+
+
+class ListWithPointer(list):
+
+    FORWARD = 0
+    BACKWARD = 1
+
+    def __init__(self, data=[]):
+        list.__init__(self, data)
+        self.pointer = 0
+        self.direction = self.FORWARD
+
+    def next(self):
+        if self.direction == self.BACKWARD:
+            self.direction = self.FORWARD
+            self.pointer = (self.pointer + 1) % len(self)
+        result = self.__getitem__(self.pointer)
+        self.pointer = (self.pointer + 1) % len(self)
+        return result
+
+    def previous(self):
+        if self.direction == self.FORWARD:
+            self.direction = self.BACKWARD
+            self.pointer = (self.pointer - 1) % len(self)
+        self.pointer = (self.pointer - 1) % len(self)
+        result = self.__getitem__(self.pointer)
+        return result
